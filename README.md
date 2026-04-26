@@ -38,12 +38,14 @@ Before running the app, ensure you have the following installed:
 ## Installation
 
 1. **Clone the repository**:
+
    ```
    git clone https://github.com/homam121/Little-Lemon-Capstone-App.git
    cd Little-Lemon-Capstone-App
    ```
 
 2. **Install dependencies**:
+
    ```
    npm install
    ```
@@ -53,6 +55,7 @@ Before running the app, ensure you have the following installed:
 ## Running the App
 
 1. **Start the Expo development server**:
+
    ```
    npx expo start
    ```
@@ -85,6 +88,7 @@ Little-Lemon-Capstone-App/
 ## API Usage
 
 The app fetches menu data from a public GitHub API:
+
 - URL: `https://raw.githubusercontent.com/Meta-Mobile-Developer-PC/Working-With-Data-API/main/capstone.json`
 - Data is stored locally in SQLite for offline access.
 
@@ -98,7 +102,7 @@ This project is for educational purposes as part of a capstone assignment. No sp
 
 ## Screenshots
 
-*(Add screenshots here if available)*
+_(Add screenshots here if available)_
 
 For more details, check the [Expo documentation](https://docs.expo.dev/) or the [React Native docs](https://reactnative.dev/docs/getting-started).</content>
 <parameter name="filePath">c:\Users\homam\Desktop\Capstone React App\Little Lemon Capstone\README.md
